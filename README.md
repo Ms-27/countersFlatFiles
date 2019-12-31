@@ -9,5 +9,5 @@
 ### counterLineFromFile
 * need one parameter: file path
 
-###WIP
-*script to find a word in a file
+### WIP
+* script to find a word in a file
