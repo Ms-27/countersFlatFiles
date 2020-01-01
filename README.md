@@ -9,5 +9,12 @@ needs two parameters:
 ### counterLineFromFile
 need one parameter: file path
 
+### counterWordInFile
+needs two parameters:
+* file path 
+* word (case sensitive)
+
+
+
 ### WIP
-* script to find a word in a file
+* script to find a string in a file
